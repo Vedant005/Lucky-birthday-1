@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+body{
+   background-color: aqua; 
+}
+
+.container{
+  margin: auto;
+  width:300px;  
+}
+input,label{
+  display:block;
+}
+
+#check-number{
+  margin-bottom: 1rem;
+}
+
+h1{
+    text-align: center;
+
+}
+
